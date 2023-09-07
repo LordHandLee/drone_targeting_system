@@ -1,1 +1,1 @@
-
+Detects a face using a HAAR cascade classifier. Once a face is detected, it then proceeds to track the face across the screen using a tracking algorithm. Finally, it simultaneously calculates the distance from the face to the camera using the camera focal length and triangle similarity. 
